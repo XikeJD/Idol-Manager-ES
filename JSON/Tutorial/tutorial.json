@@ -30,7 +30,7 @@
 		"Cards": [
 			{
 				"ID": 0,
-				"Text": "[green]Open the staff tab[/green]",
+				"Text": "[green]Abre la pestaña de personal[/green]",
 				"Requirement": "1_open_staff_tab",
 				"OnStart": null,
 				"OnComplete": null,
