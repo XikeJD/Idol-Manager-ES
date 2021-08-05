@@ -1626,7 +1626,7 @@
 		text: "Planifica un concierto elaborando una lista de canciones, eligiendo un lugar y fijando el precio de las entradas.\n\nLas canciones aumentan el hype del público, pero consumen la energía de la idol elegida para ser el centro. Las charlas restauran la energía de las idol que no participan en la charla.\n\nLos accidentes ocurren con más frecuencia cuando la energía de la idol del centro es baja, y afectan a la relación del centro con las otras idols que participan en el concierto.\n\nReaccionar ante los accidentes eligiendo opciones seguras para rebajar ligeramente el hype del público u opciones arriesgadas que pueden reducir o aumentar drásticamente el hype\n\nLas tarjetas de acción se pueden utilizar antes de cada canción para hacer cosas como aumentar el hype o reducir la posibilidad de un accidente durante esa canción.\n\nUn nivel más alto de producción aumenta la cantidad de hype que genera cada canción. Un nivel más alto de ensayo reduce la probabilidad de accidentes. Un nivel más alto de logística genera más tarjetas de accion."
 	},{
 		id: "SEVENT__ELECTION_DESC",
-		text: "Elections provide a way for fans to vote for their favorite idols within a group.  Idols ranked in the top 10 are awarded fame points, and their reactions during the election will affect their mental stamina.\n\nTo plan an election, you need to have both a Single and a Concert in production, which will both become attached to the election.  The ballots for the election will be included in the release of a Single of your choice.  Each CD comes packaged with a ballot, so the election event will provide a boost to sales for that Single.\n\nDuring the associated Concert, the election will boost the minimum hype level, guaranteeing that your hype never falls below a starting threshold.\n\nElection results are announced at the end of the associated Concert, one at a time from rank #10 to rank #1.  You can fudge the results by swapping the envelope, but beware of consequences if you get caught!\n\nHigher Production levels will provide a bigger sales bonus for the attached Single, and higher Logistics ratings will increase the concert hype bonus."
+		text: "Las elecciones permiten a los fans votar por sus idols favoritas dentro de un grupo.  Las idols clasificadas entre las 10 primeras reciben puntos de fama, y sus reacciones durante la elección afectarán a su energía mental.\n\nPara planificar una elección, es necesario tener en producción tanto un Single como un Concierto, que quedarán unidos a la elección.  Las papeletas para la elección se incluirán en el lanzamiento de un Single de su elección.  Cada CD viene empaquetado con una papeleta, por lo que el evento electoral supondrá un impulso para las ventas de ese Single.\n\nDurante el Concierto asociado, la elección impulsará el nivel mínimo de hype, garantizando que tu hype nunca caiga por debajo de un umbral inicial.\n\nLos resultados de la elección se anuncian al final del Concierto asociado, de uno en uno, desde el puesto número 10 hasta el puesto número 1.  Puedes falsear los resultados cambiando el sobre, pero ten cuidado con las consecuencias si te pillan.\n\nUn nivel de producción más alto otorga una mayor bonificación de ventas para el single adjunto, mientras que un nivel más alto de logística aumenta la bonificación de publicidad del concierto."
 	},{
 		id: "SEVENT__WORLD_TOUR_DESC",
 		text: "Selecciona los países en los que quieres hacer un concierto y elige el tipo de recinto. Los tamaños del recinto van desde clubes pequeños (1 estrella) hasta grandes arenas.\n\nLa realización de un concierto en el recinto más grande de un país desbloqueará un recinto aún más grande para tu próxima gira, pero sólo si llenas al menos el 80% del recinto.\n\nLa asistencia a los conciertos depende del nivel de fama de tu grupo, así como de la habilidad del personal de producción y de la fatiga de los fans del país.\n\nLos costes de producción y los precios de las entradas varían según el país\n\n Haz una gira por varios países dentro de la misma región para ahorrar en gastos de viaje."
@@ -4415,16 +4415,16 @@
 
 	{
 		id: "PROFILE__FANS_DETAILS",
-		text: "Details"
+		text: "Detalles"
 	},
 	{
 		id: "PROFILE__FANS_OPINION",
-		text: "Opinion"
+		text: "Opinión"
 	},
 
 	{
 		id: "IDOL__PROFILE",
-		text: "Profile"
+		text: "Perfil"
 	},
 
 	{
