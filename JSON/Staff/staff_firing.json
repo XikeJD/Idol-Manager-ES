@@ -1,0 +1,100 @@
+[
+	{
+		"Categories": ["reply", "intro_1"],
+		"Text": "I got your note. What did you want to talk about?"
+	},{
+		"Categories": ["reply", "intro_1"],
+		"Text": "What's this about?"
+	},{
+		"Categories": ["reply", "intro_1"],
+		"Text": "Hey, boss. What's this about?"
+	},
+
+	{
+		"Categories": ["reply", "intro_2"],
+		"Text": "I assume this is about something important."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "That's a serious expression. I assume this is a big deal."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "I'm guessing that whatever it is, I'm not going to like it, if that expression of yours is anything to go by."
+	},{
+		"Categories": ["reply", "intro_2"],
+		"Text": "What's with the serious expression?"
+	},
+
+	{
+		"Categories": ["reply", "letting_go"],
+		"Text": "That's the way things go in this business, isn't it? Out with the old, in with the new."
+	},{
+		"Categories": ["reply", "letting_go"],
+		"Text": "I'd always hoped I was more than just a cog in a machine. I guess I was wrong."
+	},{
+		"Categories": ["reply", "letting_go"],
+		"Text": "I see how it is. In other words, I'm disposable, and you're throwing me away."
+	},
+
+	{
+		"Categories": ["reply", "resign"],
+		"Text": "So, you're making me dig my own grave, is that it?"
+	},{
+		"Categories": ["reply", "resign"],
+		"Text": "Pardon me if I'm wrong, but a 'resignation' is what happens when the employee initiates the departure. And you're the one initiating this one."
+	},{
+		"Categories": ["reply", "resign"],
+		"Text": "So, I'm supposed to participate in my own expulsion?"
+	},
+
+	{
+		"Categories": ["mid1"],
+		"Text": "Alright, I understand your mind is already made up."
+	},{
+		"Categories": ["mid1"],
+		"Text": "I guess there's nothing that I can say to persuade you to let me keep my job."
+	},{
+		"Categories": ["mid1"],
+		"Text": "There's no point in trying to fight it at this point, is there? You've made your final decision already."
+	},
+
+	{
+		"Categories": ["mid2"],
+		"Text": "Let's figure out how to end this gracefully, shall we?"
+	},{
+		"Categories": ["mid2"],
+		"Text": "At least let me escape with a little bit of dignity."
+	},{
+		"Categories": ["mid2"],
+		"Text": "Let's talk about what you can do for me, shall we?"
+	},
+
+	{
+		"Categories": ["mid3", "budget"],
+		"Text": "I'll agree to go away quietly if you announce that this was over budget problems. I don't want people to think this is because of misconduct on my part."
+	},{
+		"Categories": ["mid3", "severance"],
+		"Text": "I'll agree to go away quietly if you pay me [severance_amount] in severance. It's the least you can do."
+	},
+
+	{
+		"Categories": ["reply", "accept"],
+		"Text": "Thanks. This might be the worst day of my life, but at least it's not as bad as it could have been."
+	},{
+		"Categories": ["reply", "accept"],
+		"Text": "Thanks. You know, I'm going to miss it here. It's too bad things had to end like this."
+	},{
+		"Categories": ["reply", "accept"],
+		"Text": "Thanks. Working here had its ups and downs, but I do think I'll look back fondly on the time I spent here."
+	},
+
+	{
+		"Categories": ["reply", "decline"],
+		"Text": "You'll regret this. You might think you can kick me out and just be done with it, but trying to remove someone like me from this organization is going to leave a gaping wound, and people are going to notice it."
+	},{
+		"Categories": ["reply", "decline"],
+		"Text": "Well, I think you're an asshole. Don't be surprised if other people around here start to think you're an asshole, too."
+	},{
+		"Categories": ["reply", "decline"],
+		"Text": "No class, huh? Well, don't be surprised if other people start to wise up to how classless you really are."
+	}
+]

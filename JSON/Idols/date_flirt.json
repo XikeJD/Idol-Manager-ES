@@ -1,0 +1,279 @@
+[
+	{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, you're not so bad looking yourself."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "I'm glad to see you've finally noticed me."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Oh, my. I think I'm feeling faint. You'll be sure to catch me if I fall, right?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Flattery is underrated.  Please, do go on."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "I'm at a loss for words. I guess I tend to have trouble focusing on anything when you're around."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Are you trying to steal my heart? You'll have to try a lot harder than that. Go ahead, try it."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "I'm waiting for the part where I wake up and realize this is all a really, really good dream."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hmm? I don't think I heard you. Say that again. Slower, this time. You might have to repeat it a few times, I'm pretty hard of hearing."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Wow, you're a smooth talker. Guess you're not just a [handsome:male_mc][pretty:female_mc] face."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Well, I'm not one to turn down a compliment."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "How long have you been waiting to say that? Because I've been waiting to hear you say it."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Oh, so you have been noticing me after all."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Oh, I bet you say that to all of the girls who are named [girl] and look exactly like me."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "I think you just made my day. Granted, it has been a pretty boring day...but still."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Laying it on pretty thick there, aren't you? It's okay, I like a heaping dose of praise."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, this is fun. Next time, let's skip the small talk and just cut to the part where we flatter each other."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "You know, I wouldn't mind it if you talked like that more often."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "You definitely shouldn't say things like that around the other girls. I mean, you'd only say things like that to me, right?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Wow, [player], I didn't know you had it in you."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "You don't know how long I've been waiting to hear that."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "Hey, this is really unprofessional. Don't worry, I won't tell anyone, just as long as you keep talking to me like that."
+	},{
+		"Type": "dialogue",
+		"Categories": ["success","critical_success"],
+		"Text": "You like to push boundaries, don't you? Well, I'm glad you did."
+	},{
+		"Type": "outcome",
+		"Categories": ["success"],
+		"Text": "[girl] seems to be enjoying herself"
+	},{
+		"Type": "outcome",
+		"Categories": ["success"],
+		"Text": "[girl] seems to be having a good time"
+	},{
+		"Type": "outcome",
+		"Categories": ["critical_success"],
+		"Text": "[girl] is beaming"
+	},{
+		"Type": "outcome",
+		"Categories": ["critical_success"],
+		"Text": "[girl] is nothing but smiles"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Wow, I don't know what to say.  This is really unprofessional."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "...I really think I need to go."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "I hope you didn't just say what I thought I heard you say."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Ugh.  Are we really doing this again?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Can you not?  Please, just stop."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "I really do not appreciate remarks like that."
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Why are you the way you are?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["catastrophic_failure"],
+		"Text": "Honest question, how did you see this ending? Because I can assure you, it's not going to end well."
+	},{
+		"Type": "outcome",
+		"Categories": ["catastrophic_failure"],
+		"Text": "That didn't go well..."
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "taken"],
+		"Text": "Looks like she's taken"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "too_fast"],
+		"Text": "It seems like she wasn't ready for that..."
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Apparently, she isn't interested in [men:male_mc][women:female_mc]"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "uninterested"],
+		"Text": "It looks like she's not interested in dating"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "An awkwardness lingers over the conversation for the next few minutes"
+	},{
+		"Type": "outcome",
+		"Categories": ["failure", "oblivious"],
+		"Text": "She seems completely oblivious to your flirting attempt..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "I really wish you wouldn't say things like that..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Sorry, I already have someone I'm seeing right now."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "I think I should let you know, I already have a 'special someone.'"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "I'm flattered, but I'm really not looking to date another person right now."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "Sorry, I really don't see this amounting to anything."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uninterested"],
+		"Text": "You're...really not my type."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Are you sure you should be saying things like that?  I mean, it doesn't bother me, but..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Oh!  Um..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "too_fast"],
+		"Text": "Is...is it really okay for us to be talking like this?  I mean, you're a nice person, but..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Hey, you're nice and all, but I'm really not into [men:male_mc][women:female_mc]."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "Sorry, I'm not, ah, really into [men:male_mc][women:female_mc].  Nothing personal."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text":"H-hey, did you notice it rained yesterday? It was really unexpected!"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "Well, um..."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "I'm sorry, I don't mean to take up too much of your time."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "wrong_gender"],
+		"Text": "I appreciate the compliment, but I'm not really into [guys:male_mc][girls:female_mc]."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "taken"],
+		"Text": "Oh, are you...interested in me?  I feel like I should tell you, I already have a 'special someone.'"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "This place is really cool.  Do you come here often?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "So yeah, I'm really looking forward to the next concert."
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "There's not much good on TV these days, is there?"
+	},{
+		"Type": "dialogue",
+		"Categories": ["failure", "oblivious"],
+		"Text": "Hey, did you see what happened the other day in Tohoku?"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "too_fast", "wrong_gender", "uncomfortable"],
+		"Text": "[girl] shifts uncomfortably in her seat and tries to avoid eye contact for the next few minutes"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "wrong_gender", "uninterested"],
+		"Text": "[girl] laughs politely, but it's obvious that she's uncomfortable with the advance."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "oblivious"],
+		"Text": "[girl] continues the conversation without skipping a beat."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "taken", "too_fast", "uncomfortable"],
+		"Text": "[girl] looks startled by what you just said."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "oblivious"],
+		"Text": "[girl]'s face shows no visible reaction."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uninterested"],
+		"Text": "[girl] winces a bit."
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uncomfortable"],
+		"Text": "[girl] laughs nervously, but her nervous laughter goes on for so long that it becomes awkward"
+	},{
+		"Type": "action",
+		"Categories": ["failure", "uninterested"],
+		"Text": "[girl] laughs contemptuously."
+	}
+]

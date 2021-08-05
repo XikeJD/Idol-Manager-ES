@@ -1,0 +1,118 @@
+[
+	{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey [player:casual], it's good to see you!"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ah, it's good to be here. I've been looking forward to this."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "It's been awhile since I've had a chance to get out, so this is a nice change of pace."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "What's up, [player:casual]? How have you been doing lately?"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Sorry I'm late! I got held up on the way over here."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Ah, there you are! I was wondering when you'd show up. I got here a bit early."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "I hope you're ready for an unforgettable afternoon!"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "It's good to see you, [player:casual]. I'm glad that we could make time for this."
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey, what's up?"
+	},{
+		"Categories": ["date_generic", "greeting"],
+		"Text": "Hey [player:casual], good to see you!"
+	},
+
+
+	{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Sorry if I don't seem super energetic today. I've just been really busy with work and stuff.|But it's nice to get a chance to relax."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, have you seen any good movies lately?|Recently I decided to go and watch all of the Academy Prize winners from each year.|I started doing it because I thought it would make me more 'cultured,' but it turns out a lot of them are just really good and enjoyable movies!|I guess that's kind of the point of awarding the 'best movie' from each year."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "By the way, have you ever had to deal with pests?|Recently I found out that there are termites in my building. I had to sleep in a hotel one night while my landlord took care of the problem."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "This is kind of random, but have I ever told you that I really like the color chartreuse?|I actually started eating avacados more often just because I like the color."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "By the way, do you follow sports much?|I don't normally follow sports that closely, but there's one pitcher I started following online, just because he posts funny photos often.|But a lot of the clips he posts are from baseball practices.|It's kind of made me want to go to an actual game!"
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Sorry if I don't seem like my usual self today.|You know those days when you eat too much for lunch, and then you spend the rest of the day feeling bloated?|That's kind of how I feel right now."
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, seen any good TV shows lately?|Recently I started watching this show with a really interesting and unique premise.|It's about a bunch of forensic investigators, and every episode, they have to figure out the identity of the culprit behind a recent crime.|But wait, there's a cool twist: one of the investigators is actually a serial killer!"
+	},{
+		"Categories": ["date_generic", "small_talk"],
+		"Text": "Hey, did you know that a new restaurant opened near the office?|Apparently, their big thing is 'European food.' But instead of having a single focus, they have a different theme every night.|On Fridays, they do Italian food, and the place gets pretty crowded.|Unfortunately, I went on a Tuesday, which is when they do English food..."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "Playing games in a public place like this is more fun than playing games at home, isn't it? It must be something about the atmosphere."
+	},{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "Coming here brings back some memories."
+	},{
+		"Categories": ["date_generic", "intro", "arcade"],
+		"Text": "I remember passing by this place the other day when they were hosting a big tournament of some kind.|Apparently some people get really into some of these games."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "Hey, ready to look at the sharks?"
+	},{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "You know, being surrounded by so much water is starting to make me feel a bit dehydrated."
+	},{
+		"Categories": ["date_generic", "intro", "aquarium"],
+		"Text": "By the way, this place offers an annual pass which is only twice the cost of a normal ticket.|You'd only need to use it twice in order for it to pay for itself.|Just something to think about if you find yourself coming to this specific aquarium often, for whatever reason."
+	},{
+		"Categories": ["date_generic", "intro", "aquarium", "june_20"],
+		"Text": "Hey, it's the 20th of June!|It's the anniversary of when that famous shark movie was released!|I wonder if the aquarium is doing any special shark events in recognition of that?"
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "It's always heartening to come to places like this and see that they're still in business.|People could be reading ebooks if they wanted to, but there's something about the appeal of holding a physical book in your hands that seems like it will never go out of style."
+	},{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "Places like this really add to the personality of a neighborhood, don't they? You can even smell it when you walk in."
+	},{
+		"Categories": ["date_generic", "intro", "bookstore"],
+		"Text": "I wonder if this store has any rare books that they keep in the back.|Books are usually seen as a commodity, but some of them are rare collector's items."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "I like coming to big department stores like this one."
+	},{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "This place is so big! I know that's the point, but whenever I come here, there's always a brief moment when I get overwhelmed by the sheer size of the place."
+	},{
+		"Categories": ["date_generic", "intro", "department_store"],
+		"Text": "By the way, pro tip: if you ever need to use a bathroom in a place like this, the cleanest bathrooms are always the ones that are on the top-most floors."
+	},
+
+	{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "It's a bit windy today, isn't it?|I don't mind. In fact, I kind of like it when it's a bit nippy. It keeps you on your toes."
+	},{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "It's a pleasant day. I'm glad we came out."
+	},{
+		"Categories": ["date_generic", "intro", "park"],
+		"Text": "We picked a good day for a walk!"
+	}
+]

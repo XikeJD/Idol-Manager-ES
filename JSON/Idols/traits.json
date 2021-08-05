@@ -1,0 +1,250 @@
+[
+	{
+		type: 			"Prodigy",
+		title: 			"Prodigio",
+		intro:			"intro_prodigy",
+		description:	"Las sesiones de entrenamiento son un 30% más rápidas"
+	},
+	{
+		type: 			"Hypochondriac",
+		title: 			"Hipocondríaca",
+		intro:			"intro_hypochondriac",
+		description:	"Gasta el doble de resistencia en eventos de apretón de manos",
+		positive:		false
+	},
+	{
+		type: 			"Thick_Skin",
+		title: 			"Piel gruesa",
+		intro:			"intro_thick_skin",
+		description:	"Inmune al bullying y el acoso en línea"
+	},
+	{
+		type: 			"Clumsy",
+		title: 			"Torpe",
+		intro:			"intro_clumsy",
+		description:	"Pena a bailar, bonificación a comedia"
+	},
+	{
+		type: 			"Jack_of_All_Trades",
+		title: 			"Jack of All Trades",
+		intro:			"intro_jack_of_all_trades",
+		description:	"Aprende un 50% más rápido cuando entrena la estadística que sea actualmente la más baja."
+	},
+	{
+		type: 			"Annoying",
+		title: 			"Molesta",
+		intro:			"intro_annoying",
+		description:	"Al participar en actividades grupales, las otras chicas que participan consumen 1.2 veces más resistencia de lo habitual.",
+		positive:		false
+	},
+	{
+		type: 			"Tenacious",
+		title: 			"Tenaz",
+		intro:			"intro_tenacious",
+		description:	"Cuando la resistencia física de la idol cae por debajo de 50 puntos, tiene un 30% de probabilidad de no consumir resistencia al realizar cualquier actividad."
+	},
+	{
+		type: 			"Lazy",
+		title: 			"Perezosa",
+		intro:			"intro_lazy",
+		description:	"Reduce la resistencia física máxima en 30 puntos",
+		positive:		false
+	},
+	{
+		type: 			"Misandry",
+		title: 			"Misandria",
+		intro:			"intro_misandry",
+		description:	"Interactúa mal con los fans masculinos (20% de probabilidad de obtener un punto de opinión negativo de los fans masculinos después de un evento de apretón de manos)",
+		positive:		false
+	},
+	{
+		type: 			"Asexual",
+		title: 			"Asexual",
+		intro:			"intro_asexual",
+		description:	"No se involucra en las relaciones"
+	},
+	{
+		type: 			"Indiscreet",
+		title: 			"Indiscreta",
+		intro:			"intro_indiscreet",
+		description:	"No puede guardar un secreto (propenso a filtrar información en entrevistas o redes sociales)",
+		positive:		false
+	},
+	{
+		type: 			"Snitch",
+		title: 			"Soplona",
+		intro:			"intro_snitch",
+		description:	"Informa posibles escándalos incluso si la relación con el jugador no es lo suficientemente buena"
+	},
+	{
+		type: 			"Maternal",
+		title: 			"Materna",
+		intro:			"intro_maternal",
+		description:	"Se lleva mejor con chicas más jóvenes"
+	},
+	{
+		type: 			"Precocious",
+		title: 			"Precoz",
+		intro:			"intro_precocious",
+		description:	"Se lleva mejor con chicas mayores"
+	},
+	{
+		type: 			"Weak_vocal_chords",
+		title: 			"Cuerdas vocales débiles",
+		intro:			"intro_weak_vocal_chords",
+		description:	"Gasta el doble de resistencia en las actuaciones",
+		positive:		false
+	},
+	{
+		type: 			"Underdog",
+		title: 			"Desvalida",
+		intro:			"intro_underdog",
+		description:	"Bonificación para todas las estadísticas si tu último sencillo no encabezó la lista"
+	},
+	{
+		type: 			"Defeatist",
+		title: 			"Derrotista",
+		intro:			"intro_defeatist",
+		description:	"Penalización a todas las estadísticas si tu último single no ha encabezado la lista de éxitos",
+		positive:		false
+	},
+	{
+		type: 			"Worrier",
+		title: 			"Preocupada",
+		intro:			"intro_worrier",
+		description:	"Penalización a todas las estadísticas cuando su grupo tiene puntos de escándalo",
+		positive:		false
+	},
+	{
+		type: 			"Arrogant",
+		title: 			"Arrogante",
+		intro:			"intro_arrogant",
+		description:	"Se vuelve menos agradable después de ser el centro de un single",
+		positive:		false
+	},
+	{
+		type: 			"Complacent",
+		title: 			"Complacent",
+		intro:			"intro_complacent",
+		description:	"Disminuye de las estadísticas de rendimiento después de centrar un sencillo (penalización a la voz y al baile)",
+		positive:		false
+	},
+	{
+		type: 			"Lone_Wolf",
+		title: 			"Lobo solitario",
+		intro:			"intro_lone_wolf",
+		description:	"Aumento de estadísticas cuando se presenta a un programa sola"
+	},
+	{
+		type: 			"Anxiety",
+		title: 			"Ansiedad",
+		intro:			"intro_anxiety",
+		description:	"Obtiene una ligera reducción en todas las estadísticas cuando tienes un gran evento en producción",
+		positive:		false
+	},
+	{
+		type: 			"Live_fast",
+		title: 			"Vida rápida",
+		intro:			"intro_live_fast",
+		description:	"Amplifica la pérdida de estadísticas debido al envejecimiento.",
+		positive:		false
+	},
+	{
+		type: 			"Late_bloomer",
+		title: 			"Flor tardía",
+		intro:			"intro_late_bloomer",
+		description:	"Las estadísticas aumentan con la edad en lugar de disminuir"
+	},
+	{
+		type: 			"Forgiving",
+		title: 			"Indulgente",
+		intro:			"intro_forgiving",
+		description:	"No guarda rencor"
+	},
+	{
+		type: 			"Paranoid",
+		title: 			"Paranoica",
+		intro:			"intro_paranoid",
+		description:	"Es más probable que informe escándalos reales al jugador, pero a veces también informará falsamente al jugador de un comportamiento escandaloso incluso cuando no haya nada malo"
+	},
+	{
+		type: 			"Secretive",
+		title: 			"Reservada",
+		intro:			"intro_secretive",
+		description:	"No informará escándalos / problemas al jugador",
+		positive:		false
+	},
+	{
+		type: 			"Trendy",
+		title: 			"Trendy",
+		intro:			"intro_trendy",
+		description:	"Atractivo adicional para los fans adolescentes y adultos jóvenes, menos atractivo para los fans adultos"
+	},
+	{
+		type: 			"Perfectionist",
+		title: 			"Perfeccionista",
+		intro:			"intro_perfectionist",
+		description:	"Le da un golpe a la resistencia mental cuando un evento en el que participaron sale mal",
+		positive:		false
+	},
+	{
+		type: 			"High_maintenance",
+		title: 			"Alto mantenimiento",
+		intro:			"intro_high_maintenance",
+		description:	"Drena la resistencia 1,5 veces más rápido de lo normal, pero el tratamiento de spa restaurará 4 veces más la resistencia."
+	},
+	{
+		type: 			"Photogenic",
+		title: 			"Fotogénica",
+		intro:			"intro_photogenic",
+		description:	"Aumenta 2 veecs los pagos de la sesión de fotos"
+	},
+	{
+		type: 			"Meme_queen",
+		title: 			"Meme queen",
+		intro:			"intro_meme_queen",
+		description:	"Aumenta las posibilidades de éxito de las campañas de marketing viral y un pequeño impulso a todo el contenido en línea."
+	},
+	{
+		type: 			"Amorous",
+		title: 			"Amorosa",
+		intro:			"intro_amorous",
+		description:	"Más propenso a la participación romántica"
+	},
+	{
+		type: 			"Loyal",
+		title: 			"Leal",
+		intro:			"intro_loyal",
+		description:	"Los eventos que dañarían las relaciones duelen menos"
+	},
+	{
+		type: 			"Steadfast",
+		title: 			"Firme",
+		intro:			"intro_steadfast",
+		description:	"Las sanciones por poca resistencia se reducen drásticamente"
+	},
+	{
+		type: 			"Resilient",
+		title: 			"Resilente",
+		intro:			"intro_resilient",
+		description:	"Se recupera más rápido cuando la resistencia cae por debajo del 65%"
+	},
+	{
+		type: 			"Shameless",
+		title: 			"Desvergonzada",
+		intro:			"intro_shameless",
+		description:	"Sin miedo al escándalo"
+	},
+	{
+		type: 			"Spoiled",
+		title: 			"Consentida",
+		intro:			"intro_spoiled",
+		description:	"Consume resistencia el doble de rápido, recupera la resistencia la mitad de rápido"
+	},
+	{
+		type: 			"Moonlighter",
+		title: 			"Pluriempleada",
+		intro:			"intro_moonlighter",
+		description:	"Trata al grupo como un trabajo secundario (el entrenamiento es 10 veces más rápido, pero cuesta 5 veces la resistencia)"
+	}
+]

@@ -1,0 +1,219 @@
+[
+	{
+		ID:		0,
+		Type:	"_default",
+		Text: 	"Tiene una araña como mascota"
+	},{
+		ID:		1,
+		Type:	"_default",
+		Text: 	"Solía tomar clases de caligrafía"
+	},{
+		ID:		2,
+		Type:	"_default",
+		Text: 	"Le gusta ver fútbol americano"
+	},{
+		ID:		3,
+		Type:	"_default",
+		Text: 	"Puede resolver un cubo de rubik en menos de 30 segundos"
+	},{
+		ID:		4,
+		Type:	"_default",
+		Text: 	"Tiene una colección de mariposas"
+	},{
+		ID:		5,
+		Type:	"_default",
+		Text: 	"Quiere ser mixólogo"
+	},{
+		ID:		6,
+		Type:	"_default",
+		Text: 	"Puede hacer malabarismos con hasta ocho objetos a la vez"
+	},{
+		ID:		7,
+		Type:	"_default",
+		Text: 	"Sabe comer alitas de pollo con una sola mano."
+	},{
+		ID:		8,
+		Type:	"_default",
+		Text: 	"Disfruta de las novelas de ciencia ficción"
+	},{
+		ID:		9,
+		Type:	"_default",
+		Text: 	"Tiene la Obertura de Guillermo Tell como despetador"
+	},{
+		ID:		10,
+		Type:	"_default",
+		Text: 	"Le encantan las películas de Bollywood"
+	},{
+		ID:		11,
+		Type:	"_default",
+		Text: 	"Tiene un póster de Leif Ericson en su habitación."
+	},{
+		ID:		12,
+		Type:	"_default",
+		Text: 	"Posee un telescopio de alta potencia"
+	},{
+		ID:		13,
+		Type:	"_default",
+		Text: 	"Sueña en reencarnarse como un árbol"
+	},{
+		ID:		14,
+		Type:	"_default",
+		Text: 	"Still carries a Game Boy Advance in her bag"
+	},{
+		ID:		15,
+		Type:	"_default",
+		Text: 	"Has taken over 1 million steps in a GPS-tracked AR mobile game"
+	},{
+		ID:		16,
+		Type:	"_default",
+		Text: 	"Puede cortar una cebolla sin llorar"
+	},{
+		ID:		17,
+		Type:	"_default",
+		Text: 	"Disfruta escuchando podcasts en idiomas que no entiende"
+	},{
+		ID:		18,
+		Type:	"_default",
+		Text: 	"Utiliza una máquina de ruido blanco para dormir"
+	},{
+		ID:		19,
+		Type:	"_default",
+		Text: 	"HTiene una gran colección de cómics estadounidenses"
+	},{
+		ID:		20,
+		Type:	"family",
+		Text: 	"Su madre [older_dev]"
+	},{
+		ID:		21,
+		Type:	"family",
+		Text: 	"Su padre [older_dev]"
+	},{
+		ID:		22,
+		Type:	"family",
+		Text: 	"Tiene [sibling] mayor que [older_dev]"
+	},{
+		ID:		23,
+		Type:	"family",
+		Text: 	"Tiene [sibling] mayor que [medium_dev]"
+	},{
+		ID:		24,
+		Type:	"sibling",
+		Text: 	"un hermano"
+	},{
+		ID:		25,
+		Type:	"sibling",
+		Text: 	"una hermana"
+	},{
+		ID:		26,
+		Type:	"older_dev",
+		Text: 	"toca la gaita"
+	},{
+		ID:		27,
+		Type:	"older_dev",
+		Text: 	"está publicando una novela web isekai"
+	},{
+		ID:		28,
+		Type:	"older_dev",
+		Text: 	"trabaja como artista de manga shoujo"
+	},{
+		ID:		29,
+		Type:	"older_dev",
+		Text: 	"trabaja como editor en una revista de manga shounen."
+	},{
+		ID:		30,
+		Type:	"older_dev",
+		Text: 	"tiene el récord mundial de comer ramen"
+	},{
+		ID:		31,
+		Type:	"older_dev",
+		Text: 	"tiene más de 20 gatos"
+	},{
+		ID:		32,
+		Type:	"older_dev",
+		Text: 	"ha gastado más de [yen]1.000.000 en cápsulas gacha"
+	},{
+		ID:		33,
+		Type:	"older_dev",
+		Text: 	"graduado de una universidad [nationality]"
+	},{
+		ID:		34,
+		Type:	"older_dev",
+		Text: 	"trabaja para una empresa multinacional"
+	},{
+		ID:		35,
+		Type:	"medium_dev",
+		Text: 	"abandonó la universidad después de volverse adicto a un MMORPG"
+	},{
+		ID:		36,
+		Type:	"medium_dev",
+		Text: 	"representó a Japón en los Juegos de Verano de 2016"
+	},{
+		ID:		37,
+		Type:	"medium_dev",
+		Text: 	"está asistiendo a la universidad en [nation]"
+	},{
+		ID:		38,
+		Type:	"nation",
+		Text: 	"los Estados Unidos"
+	},{
+		ID:		39,
+		Type:	"nation",
+		Text: 	"Francia"
+	},{
+		ID:		40,
+		Type:	"nation",
+		Text: 	"el Reino Unido"
+	},{
+		ID:		41,
+		Type:	"nation",
+		Text: 	"Canadá"
+	},{
+		ID:		42,
+		Type:	"nation",
+		Text: 	"Brasil"
+	},{
+		ID:		43,
+		Type:	"nation",
+		Text: 	"Alemania"
+	},{
+		ID:		44,
+		Type:	"nation",
+		Text: 	"España"
+	},{
+		ID:		45,
+		Type:	"nation",
+		Text: 	"Australia"
+	},{
+		ID:		46,
+		Type:	"nationality",
+		Text: 	"americana"
+	},{
+		ID:		47,
+		Type:	"nationality",
+		Text: 	"francesa"
+	},{
+		ID:		48,
+		Type:	"nationality",
+		Text: 	"británica"
+	},{
+		ID:		49,
+		Type:	"nationality",
+		Text: 	"canadiense"
+	},{
+		ID:		50,
+		Type:	"nationality",
+		Text: 	"brasilera"
+	},{
+		ID:		51,
+		Type:	"nationality",
+		Text: 	"alemana"
+	},{
+		ID:		52,
+		Type:	"nationality",
+		Text: 	"española"
+	},{
+		ID:		53,
+		Type:	"nationality",
+		Text: 	"australiana"
+	}
+]
