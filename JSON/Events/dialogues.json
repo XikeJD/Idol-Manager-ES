@@ -67,7 +67,7 @@
             "id": 2,
             "type": "message",
             "actor": "girl1",
-            "val": "I was wondering, did you want to come and watch our dance practice tomorrow?",
+            "val": "Me preguntaba, ¿Mañana quisieras venir a ver nuestra práctica de baile?.",
             "effect": [
               {
                 "target": "girl1",
@@ -93,7 +93,7 @@
             "id": 4,
             "type": "message",
             "actor": "girl1",
-            "val": "Oh, it's nothing...I was just wondering if you wanted to come and watch our dance tomorrow.",
+            "val": "Oh, no es nada... sólo me preguntaba si mañana quisieras venir a ver nuestra práctica de baile.",
             "effect": [
               {
                 "target": "girl1",
@@ -111,7 +111,7 @@
         "id": 5,
         "type": "message",
         "actor": "girl1",
-        "val": "There's not anything special happening.  Well, not really.  But I've been working on my moves, and I haven't really had a chance to show off in front of anyone.  I thought you might be interested.",
+        "val": "No hay nada especial ocurriendo. Bueno, no realmente. Pero he estado ensayando mis movimientos y no he tenido oportunidad alguna de practicarlos en frente de alguien. Me preguntaba si estarías interesado.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -120,7 +120,7 @@
         "id": 6,
         "type": "choice",
         "actor": null,
-        "val": "I think I'd like to see that",
+        "val": "Creo que me gustaría verlos.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -128,7 +128,7 @@
             "id": 7,
             "type": "message",
             "actor": "girl1",
-            "val": "Really?  Thanks, [player:polite]!",
+            "val": "¿De verdad? Gracias, [player:polite]!",
             "effect": [
               {
                 "target": "meta",
@@ -151,7 +151,7 @@
         "id": 8,
         "type": "choice",
         "actor": null,
-        "val": "I'll have to think about it",
+        "val": "Tendré que pensarlo.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -159,7 +159,7 @@
             "id": 9,
             "type": "message",
             "actor": "girl1",
-            "val": "Alright.  I know you're busy, and you probably have other things you need to worry about...",
+            "val": "Está bien. Se que estás ocupado y probablemente tienes otras cosas de las que necesitas preocuparte...",
             "effect": [
               {
                 "target": "girl1",
@@ -201,7 +201,7 @@
         "id": 0,
         "type": "message",
         "actor": null,
-        "val": "\"After the dance practice...\"",
+        "val": "\"Después de la práctica de baile...\"",
         "effect": [],
         "requirements": [],
         "script": []
@@ -210,7 +210,7 @@
         "id": 1,
         "type": "message",
         "actor": "girl1",
-        "val": "Oh, [player:polite], you came!",
+        "val": "Oh, [player:polite], ¡viniste!",
         "effect": [
           {
             "target": "girl1",
@@ -245,7 +245,7 @@
             "id": 3,
             "type": "message",
             "actor": "girl1",
-            "val": "I honestly wasn't expecting you to come out.",
+            "val": "Honestamente no esperé que vinieses.",
             "effect": [
               {
                 "target": "girl1",
@@ -277,7 +277,7 @@
             "id": 5,
             "type": "message",
             "actor": "girl1",
-            "val": "I'm glad you could make it.",
+            "val": "Me alegra saber que viniste.",
             "effect": [
               {
                 "target": "girl1",
@@ -314,7 +314,7 @@
             "id": 7,
             "type": "message",
             "actor": "girl1",
-            "val": "I knew you'd come!",
+            "val": "¡Sabía que vendrías!",
             "effect": [
               {
                 "target": "girl1",
@@ -337,7 +337,7 @@
         "id": 8,
         "type": "message",
         "actor": "girl1",
-        "val": "I really like the choreography on our newest dance.  That move that we do at the end is called a 'body wave.'  The idea is to move every part of your body in sequence, starting with the knees up to the hips until you reach the neck.",
+        "val": "Me gusta mucho la coreografía de nuestro nuevo baile. Aquel movimiento que hacemos al final se llama 'Body wave' u onda corporal. La idea consiste en mover cada parte del cuerpo en sucesión, empezando con las rodillas, siguiendo con las caderas hasta que se llega al cuello.",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -347,7 +347,7 @@
         "id": 9,
         "type": "message",
         "actor": "girl1",
-        "val": "It's actually really tough to do.  In fact, some of the girls sort of fudge it when it comes to the hip movement.  We're going to be wearing layered skirts, so if you aren't doing a full body wave, it's hard for people in the crowd to notice.",
+        "val": "En realidad es muy duro de hacer. De hecho algunas de las chicas se confunden en cuanto al movimiento de las caderas. Vamos a usar faldas con capas, así que si no vas a hacer una onda completa, es difícil hacer que el público se percate.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -356,7 +356,7 @@
         "id": 10,
         "type": "message",
         "actor": "girl1",
-        "val": "I'm not sure whether I like the outfits that cover up our hip movements that much.  On one hand, it does hide the moments when we might make small mistakes, but on the other hand, I think fans will be more impressed if they can see the practice and hard work that we put in.  What do you think?",
+        "val": "No estoy segura si me gusta la idea de un traje que nos cubra tanto los movimientos de las caderas. Por un lado, oculta los pequeños errores que podamos cometer, pero por otro lado, creo que los fans se impresionarían más si pueden ver el tiempo y esfuerzo que hemos puesto. ¿Qué piensas?",
         "effect": [],
         "requirements": [],
         "script": []
@@ -365,7 +365,7 @@
         "id": 11,
         "type": "choice",
         "actor": null,
-        "val": "Hiding small mistakes makes sense",
+        "val": "Ocultar los pequeños errores tiene mucho sentido",
         "effect": [],
         "requirements": [],
         "script": [
@@ -373,7 +373,7 @@
             "id": 12,
             "type": "message",
             "actor": "girl1",
-            "val": "I guess so.  Most girls will probably be more comfortable that way.  But still...",
+            "val": "Me imagino. La mayoría de las chicas se sentirán más cómodas de esa forma. Pero aun así...",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -385,7 +385,7 @@
         "id": 13,
         "type": "choice",
         "actor": null,
-        "val": "Showing off your moves is most important",
+        "val": "Mostrar sus movimientos es lo más importante",
         "effect": [],
         "requirements": [],
         "script": [
@@ -393,7 +393,7 @@
             "id": 14,
             "type": "message",
             "actor": "girl1",
-            "val": "I agree!  But I don't think the dance instructor agrees with me...",
+            "val": "¡Estoy de acuerdo! Pero creo que la instructora de danza no concuerda conmigo...",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -405,7 +405,7 @@
         "id": 15,
         "type": "choice",
         "actor": null,
-        "val": "I'd like to see you dancing in a tight skirt",
+        "val": "Me gustaría verlas bailar en faldas ajustadas",
         "effect": [],
         "requirements": [],
         "script": [
@@ -413,7 +413,7 @@
             "id": 16,
             "type": "message",
             "actor": "girl1",
-            "val": "W-what?  I mean, I guess that would show our moves more clearly, but we can't really wear tight skirts for this kind of dance.  There are several parts where we need to swivel with our knees spread, so we can't really wear tight skirts.  We always wear pleated skirts for this kind of dance, anyway.",
+            "val": "¿Q-Qué? Digo, creo que podríamos mostrar nuestros movimientos mejor, pero no podemos vestir faldas ajustadas para este tipo de baile. Hay varias partes donde necesitamos girar las con las rodillas separadas, así que no podemos vestir faldas ajustadas. De todas maneras siempre hemos faldas plisadas para este tipo de coreografía.",
             "effect": [
               {
                 "target": "girl1",
@@ -436,7 +436,7 @@
         "id": 17,
         "type": "message",
         "actor": "girl1",
-        "val": "I know our dance instructor would rather play it safe and have all the girls in layered skirts, but could you maybe talk to her about considering something that doesn't hide our hip movements as much?  I think she'd listen if the request came from you, since you're the manager.",
+        "val": "Ya sé que nuestra instructora de danza nos dijo que seamos prudentes y que todas las chicas usen faldas con capas, pero quizás; ¿Podrías hablar con ella para que considere algo que no oculte tanto nuestros movimientos con las caderas? Creo que de tí sí escucharía peticiones ya que eres el manager.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -445,7 +445,7 @@
         "id": 18,
         "type": "choice",
         "actor": null,
-        "val": "I'll talk to her about it.",
+        "val": "Luego hablaré con ella sobre eso. ",
         "effect": [],
         "requirements": [],
         "script": [
@@ -453,7 +453,7 @@
             "id": 19,
             "type": "message",
             "actor": "girl1",
-            "val": "Thanks, [player:polite]!",
+            "val": "¡Gracias, [player:polite]!",
             "effect": [
               {
                 "target": "meta",
@@ -491,7 +491,7 @@
         "id": 20,
         "type": "choice",
         "actor": null,
-        "val": "I think we should respect the decision she's made.",
+        "val": "Creo que deberíamos respetar su decisión.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -499,7 +499,7 @@
             "id": 21,
             "type": "message",
             "actor": "girl1",
-            "val": "Oh, alright.  Sorry for bringing it up.",
+            "val": "Oh, está bien. Perdón por mencionarlo.",
             "effect": [
               {
                 "target": "girl1",
@@ -540,7 +540,7 @@
         "id": 0,
         "type": "message",
         "actor": "dance",
-        "val": "Hey, I got your email about changing the dance wardrobe for the new song.",
+        "val": "Oye, recibí tu email sobre el cambio de vestuario de baile para la nueva canción.",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -550,7 +550,7 @@
         "id": 1,
         "type": "message",
         "actor": "dance",
-        "val": "What's this about?  When did you get this idea?",
+        "val": "¿De qué trata esto?, ¿Cúando se te ocurrió está idea?",
         "effect": [],
         "requirements": [],
         "script": []
@@ -559,7 +559,7 @@
         "id": 2,
         "type": "choice",
         "actor": null,
-        "val": "I got the idea when watching the girls practice.",
+        "val": "Se me ocurrió cuando vi a las chicas ensayar.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -567,7 +567,7 @@
             "id": 3,
             "type": "message",
             "actor": "dance",
-            "val": "Yes, I did notice you watching the other day.  Still, it seems like an odd thing for you to pick out on your own.",
+            "val": "Sí, me di cuenta el otro día que estabas viendo. Aún así, me parece una elección un poco extraña viniendo de tí.",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -577,7 +577,7 @@
             "id": 4,
             "type": "message",
             "actor": "dance",
-            "val": "Not that I disagree with you.  I think the dance would look more impressive if the girls weren't wearing layered skirts.  But it helps conceal things if they flub their moves a little bit.  I think the fans would be more forgiving, you know?",
+            "val": "No es que no esté de acuerdo contigo. Creo que la danza se vería mucho más impresionante si las chicas no estuviesen usando faldas con capas. Pero les ayuda a ocultar un poco los errores en los movimientos. Creo que de esta manera los fans serían un poco más indulgentes, ¿No te parece?",
             "effect": [],
             "requirements": [],
             "script": []
@@ -586,7 +586,7 @@
             "id": 5,
             "type": "message",
             "actor": "dance",
-            "val": "Plus, out of all the girls, there are only a few of them that seem to be really confident doing the new dance.",
+            "val": "Además, de todas las chicas, hay sólo unas cuantas chicas que se notan seguras haciendo el nuevo movimiento.",
             "effect": [],
             "requirements": [],
             "script": []
@@ -597,7 +597,7 @@
         "id": 6,
         "type": "choice",
         "actor": null,
-        "val": "[girl1:full] suggested that I ask you about it.",
+        "val": "[girl1:full] sugirió que te consulte al respecto",
         "effect": [],
         "requirements": [],
         "script": [
@@ -615,7 +615,7 @@
             "id": 8,
             "type": "message",
             "actor": "dance",
-            "val": "I don't know, [player:casual].  I know [girl1] is confident in her abilities, but she's not going to be the only one on stage.",
+            "val": "No sé, [player:casual].  Ya sé que [girl1] está segura de sus habilidades, pero es que ella no será la única en escena.",
             "effect": [],
             "requirements": [],
             "script": []
@@ -626,7 +626,7 @@
         "id": 9,
         "type": "message",
         "actor": "dance",
-        "val": "Anyway, if we take away the layered skirts, I don't think all of the girls are going to feel confident performing.",
+        "val": "De todas maneras, si cambiamos las faldas con capas, no creo que todas las chicas van a sentir la misma confianza al momento de realizar el baile.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -635,7 +635,7 @@
         "id": 10,
         "type": "choice",
         "actor": null,
-        "val": "The other girls can just practice more.",
+        "val": "Las otras chicas podrían practicar más.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -643,7 +643,7 @@
             "id": 11,
             "type": "message",
             "actor": "dance",
-            "val": "I don't think they'll be happy to hear that, [player:casual].  But if you're set on changing the costumes for this dance, then I guess I have no choice.",
+            "val": "No creo que estén felices de escuchar eso, [player:casual].  Pero si estás decidido en cambiar los trajes para el baile, entonces no tengo otra opción.",
             "effect": [
               {
                 "target": "meta",
@@ -659,7 +659,7 @@
             "id": 12,
             "type": "message",
             "actor": "dance",
-            "val": "The girls probably won't be happy to hear about this.  What should I tell them if they ask about why we're doing it?",
+            "val": "No creo que les agrade oír esto a las chicas. ¿Qué debería decirles si me piden una razón de por qué lo hago?",
             "effect": [],
             "requirements": [],
             "script": []
@@ -668,7 +668,7 @@
             "id": 13,
             "type": "choice",
             "actor": null,
-            "val": "Tell them it was my idea.",
+            "val": "Diles que fue mi idea.",
             "effect": [],
             "requirements": [],
             "script": [
@@ -676,7 +676,7 @@
                 "id": 14,
                 "type": "message",
                 "actor": "dance",
-                "val": "Alright, I'll tell them at the next meeting.",
+                "val": "Está bien, se los diré en la siguiente reunión.",
                 "effect": [
                   {
                     "target": "meta",
@@ -694,7 +694,7 @@
             "id": 15,
             "type": "choice",
             "actor": null,
-            "val": "Tell them it was your idea.",
+            "val": "Diles que fue tu idea.",
             "effect": [],
             "requirements": [],
             "script": [
@@ -703,7 +703,7 @@
                 "id": 16,
                 "type": "message",
                 "actor": "dance",
-                "val": "If you want me to take responsibility for this, I will.  But I certainly won't be happy about it.",
+                "val": "Si quieres que acepte la responsabilidad por esto, lo haré. Pero no me agrada la idea al respecto.",
                 "effect": [
                   {
                     "target": "dance",
@@ -731,7 +731,7 @@
             "id": 17,
             "type": "choice",
             "actor": null,
-            "val": "Tell them it was [girl1]'s idea.",
+            "val": "Diles que fue idea de [girl1]'s.",
             "effect": [],
             "requirements": [],
             "script": [
@@ -739,7 +739,7 @@
                 "id": 18,
                 "type": "message",
                 "actor": "dance",
-                "val": "Alright, if you say so...",
+                "val": "Está bien, si tú lo dices...",
                 "effect": [
                   {
                     "target": "meta",
@@ -759,7 +759,7 @@
         "id": 19,
         "type": "choice",
         "actor": null,
-        "val": "Stick with the layered skirts, then.",
+        "val": "Conserven las faldas con capas.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -767,7 +767,7 @@
             "id": 20,
             "type": "message",
             "actor": "dance",
-            "val": "Yes, I think that's best.",
+            "val": "Bien, creo que es lo mejor",
             "effect": [
               {
                 "target": "meta",
@@ -785,7 +785,7 @@
         "id": 21,
         "type": "choice",
         "actor": null,
-        "val": "What if you had two sets of costumes and let the girls choose?",
+        "val": "¿Qué tal si usamos dos trajes y dejamos que las chicas decidan?",
         "effect": [],
         "requirements": [],
         "script": [
@@ -793,7 +793,7 @@
             "id": 22,
             "type": "message",
             "actor": "dance",
-            "val": "We could do that...but it might be embarrassing for the girls who have to choose the layered skirts, wouldn't it?",
+            "val": "Podríamos hacerlo... ¿Pero no te parece que sería un poco vergonzoso para las chicas que escojan las faldas con capas?",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -803,7 +803,7 @@
             "id": 23,
             "type": "message",
             "actor": "dance",
-            "val": "I guess it is better than forcing them to dance without the layered skirt and risk having an accident on stage, though.",
+            "val": "Creo que es mejor que forzarlas a bailar sin las faldas con capas y arriesgarnos a tener algún tipo de accidente en escena.",
             "effect": [],
             "requirements": [],
             "script": []
@@ -812,7 +812,7 @@
             "id": 24,
             "type": "message",
             "actor": "dance",
-            "val": "Anyway, I'll make the announcement at the next practice.",
+            "val": "De todas maneras, haré el anuncio en la siguiente práctica.",
             "effect": [
               {
                 "target": "meta",
@@ -852,7 +852,7 @@
         "id": 0,
         "type": "message",
         "actor": "girl1",
-        "val": "Hey, [player:polite]!  Thanks for talking to [dance:polite] about the costume change!",
+        "val": "Oye, ¡[player:polite]!  ¡Gracias por hablar con [dance:polite] sobre el cambio de vestuario!",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -862,7 +862,7 @@
         "id": 1,
         "type": "message",
         "actor": "girl1",
-        "val": "She told the group that we could decide whether we wanted to stick to the layered skirts, or switch to something thinner.  We ended up deciding as a group.",
+        "val": "Ella nos dijo que podríamos decidir entre faldas con capas o cambiar a algo más fino, pero terminamos decidiendo como un grupo.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -871,7 +871,7 @@
         "id": 2,
         "type": "message",
         "actor": "girl1",
-        "val": "At first, I was the only one who volunteered to wear the thinner skirt.  But then, several of the other girls decided to do it, too.  And by the time the meeting was over, everyone was committed to the costume change!",
+        "val": "En un principio, fui la única que se ofreció a usar la falda más fina. Pero después, varías de las otras chicas también se ofrecieron. ¡Y ya para el final de la reunión todas estaban de acuerdo con el cambio de traje!",
         "effect": [],
         "requirements": [],
         "script": []
@@ -880,7 +880,7 @@
         "id": 3,
         "type": "message",
         "actor": "girl1",
-        "val": "I guess nobody wanted to be the girl who insisted on wearing a layered skirt.  It would sort of like be admitting that you weren't really confident in your abilities.  And now that we've decided to wear the thinner skirts on stage, everyone is way more committed to practicing.  I think that the new dance is going to look great!",
+        "val": "Me imagino que nadie quizo ser la chica que insistía con seguir usando una falda con capas. Sería como una forma de admitir que no estabas realmente segura de tus habilidades. Y ahora que hemos decidido usar las faldas más finas en escena, todas están más comprometidas con los ensayos. ¡Yo creo que el nuevo baile será genial!",
         "effect": [],
         "requirements": [],
         "script": []
@@ -889,7 +889,7 @@
         "id": 4,
         "type": "message",
         "actor": "girl1",
-        "val": "I can't wait until we have a chance to get up on stage and perform it in public.",
+        "val": "No puedo esperar hasta la oportunidad de presentarnos en escena y llevarlo a cabo en público.",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -899,7 +899,7 @@
         "id": 5,
         "type": "choice",
         "actor": null,
-        "val": "I think the fans will enjoy it.",
+        "val": "Creo que los fans lo disfrutarán.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -925,7 +925,7 @@
         "id": 6,
         "type": "choice",
         "actor": null,
-        "val": "I'm going to enjoy watching that a lot.",
+        "val": "Voy a disfrutar mucho la presentación.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -951,7 +951,7 @@
         "id": 7,
         "type": "message",
         "actor": "girl1",
-        "val": "Yeah, it's going to be a lot of fun.  Thanks for taking my idea and suggesting it to [dance:polite]!",
+        "val": "Yeah, it's going to be a lot of fun.  Sí, creo que será muy divertido. Gracias por escuchar mi idea y sugerirla a la instructora  [dance:polite]!",
         "effect": [
           {
             "target": "girl1",
@@ -994,7 +994,7 @@
         "id": 0,
         "type": "message",
         "actor": "girl1",
-        "val": "Hey, I noticed that you had a meeting with [dance:polite].  Did you ask her about changing the costumes for the new dance?",
+        "val": "Oye, me di cuenta que tuviste una reunión con la instructora [dance:polite].  ¿Le preguntaste sobre el cambio de vestuario para el nuevo baile?",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -1004,7 +1004,7 @@
         "id": 1,
         "type": "choice",
         "actor": null,
-        "val": "She doesn't think it's a good idea.",
+        "val": "Ella cree que no es una buena idea.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -1012,7 +1012,7 @@
             "id": 2,
             "type": "message",
             "actor": "girl1",
-            "val": "Oh.  I guess we should go with her choice then.  Thanks for taking the time to ask her about it, anyway.  It was kind of a wild idea from the start.",
+            "val": "Oh. Me imagino que deberíamos aceptar su decisión entonces. De todas maneras, gracias por tomarte el tiempo de preguntarle. Fue una poco descabellada después de todo.",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -1024,7 +1024,7 @@
         "id": 3,
         "type": "choice",
         "actor": null,
-        "val": "We both agreed to stick with the old costumes.",
+        "val": "Ambos acordamos usar el vestuario original.",
         "effect": [],
         "requirements": [],
         "script": [
@@ -1033,7 +1033,7 @@
             "id": 4,
             "type": "message",
             "actor": "girl1",
-            "val": "Oh, really?  When we met earlier, it seemed like you liked the idea.  I guess she changed your mind, huh?",
+            "val": "¿De verdad? Cuando nos encontramos anteriormente, me pareció que te agradó la idea. Me imagino que ella cambió tu parecer, ¿Eh?",
             "effect": [
               {
                 "target": "girl1",
@@ -1049,7 +1049,7 @@
             "id": 5,
             "type": "message",
             "actor": "girl1",
-            "val": "Well, sorry to waste your time.",
+            "val": "Bueno, disculpa por hacerte perder el tiempo.",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -1104,7 +1104,7 @@
         "id": 0,
         "type": "message",
         "actor": "dance",
-        "val": "Before you all leave, I have an announcement to make.  We're going to be changing the costumes for the new dance.  We're going to ditch the layered skirts and go with your usual pleated skirts.",
+        "val": "Antes de que se vayan, tengo un anuncio que hacer. Vamos a cambiar el vestuario para el nuevo baile. Vamos a abandonar las faldas con capas y usar faldas plisadas.",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -1114,7 +1114,7 @@
         "id": 1,
         "type": "message",
         "actor": "girl2",
-        "val": "What, seriously?",
+        "val": "¿Qué, en serio?",
         "effect": [
           {
             "target": "girl2",
@@ -1135,7 +1135,7 @@
         "id": 2,
         "type": "message",
         "actor": "girl3",
-        "val": "Why are we doing this?",
+        "val": "¿Por qué estamos haciendo esto?",
         "effect": [
           {
             "target": "girl3",
@@ -1165,7 +1165,7 @@
             "id": 4,
             "type": "message",
             "actor": "dance",
-            "val": "It was the manager's decision.",
+            "val": "Fue la decisión del manager.",
             "effect": [],
             "requirements": [],
             "script": []
@@ -1174,7 +1174,7 @@
             "id": 5,
             "type": "message",
             "actor": "girl3",
-            "val": "The manager?  Really?",
+            "val": "¿El manager?  ¿En serio?",
             "effect": [
               {
                 "target": "meta",
@@ -1227,7 +1227,7 @@
             "id": 7,
             "type": "message",
             "actor": "dance",
-            "val": "I've made my decision, and you're just going to have to live with it.",
+            "val": "Yo tomé la decisión, y les tocará vivir con eso..",
             "effect": [],
             "requirements": [],
             "script": []
@@ -1236,7 +1236,7 @@
             "id": 8,
             "type": "message",
             "actor": "girl3",
-            "val": "Oh, come on...",
+            "val": "Oh, vamos...",
             "effect": [
               {
                 "target": "meta",
@@ -1279,7 +1279,7 @@
             "id": 10,
             "type": "message",
             "actor": "dance",
-            "val": "This was [girl1:full]'s idea.",
+            "val": "Fue idea de [girl1:full]'s.",
             "effect": [
               {
                 "target": "girl1",
@@ -1309,7 +1309,7 @@
             "id": 11,
             "type": "message",
             "actor": "girl3",
-            "val": "[girl1:red], really?  Why would you suggest something that makes it harder for the entire group?",
+            "val": "[girl1:red], ¿De verdad?  ¿Por qué sugerirías algo que dificulte al grupo entero?",
             "effect": [
               {
                 "target": "girl3",
@@ -1325,7 +1325,7 @@
             "id": 12,
             "type": "message",
             "actor": "girl1",
-            "val": "I...I didn't...",
+            "val": "Yo...No era mi intención...",
             "effect": [
               {
                 "target": "girl1",
@@ -1341,7 +1341,7 @@
             "id": 13,
             "type": "message",
             "actor": "girl2",
-            "val": "I can't believe [girl1:red] would do this.  Just because she's really good at this dance...",
+            "val": "No puedo creer que [girl1:red] haga esto.  Sólo porque es muy buena para este movimiento...",
             "effect": [
               {
                 "target": "girl2",
@@ -1362,7 +1362,7 @@
             "id": 14,
             "type": "message",
             "actor": "dance",
-            "val": "Quiet down, girls.",
+            "val": "tranquilícense chicas, por favor.",
             "effect": [
               {
                 "target": "meta",
@@ -1385,7 +1385,7 @@
         "id": 15,
         "type": "message",
         "actor": "girl2",
-        "val": "The dance is already hard enough with the layered skirts.  What are we supposed to do now?",
+        "val": "La danza ya es lo suficientemente difícil en faldas con capas. ¿Qué se supone que haremos ahora?",
         "effect": [],
         "requirements": [],
         "script": []
@@ -1394,7 +1394,7 @@
         "id": 16,
         "type": "message",
         "actor": "dance",
-        "val": "Sorry, girls.  You'll just have to make sure that you've practiced the new dance enough to do it without the layered skirts.",
+        "val": "Lo siento chicas. Sólo les queda practicar lo suficiente hasta que se sientan cómodas de hacer el movimiento sin las faldas con capas.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -1413,7 +1413,7 @@
         "id": 18,
         "type": "message",
         "actor": "girl2",
-        "val": "I guess this means more practice, then...",
+        "val": "Supongo que eso significa más ensayos...",
         "effect": [],
         "requirements": [],
         "script": []
@@ -1436,7 +1436,7 @@
             "id": 20,
             "type": "message",
             "actor": "girl3",
-            "val": "Stupid [girl1:red].  Why is she so selfish?",
+            "val": "Estúpida [girl1:red].  ¿Por qué es tan egoísta?",
             "effect": [],
             "requirements": [],
             "script": [],
@@ -1471,7 +1471,7 @@
         "id": 0,
         "type": "message",
         "actor": "girl1",
-        "val": "Hey. [dance:polite:red] announced the costume change at our latest practice.",
+        "val": "Oye. [dance:polite:red] anunció el cambio de vestuario en nuestro último ensayo.",
         "effect": [],
         "requirements": [],
         "script": [],
@@ -1481,7 +1481,7 @@
         "id": 1,
         "type": "message",
         "actor": "girl1",
-        "val": "She told everyone it was my idea.  Now everyone's frustrated about it.",
+        "val": "Ella le dijo a todas que fue mi idea.  Ahora todas están frustradas conmigo.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -1490,7 +1490,7 @@
         "id": 2,
         "type": "message",
         "actor": "girl1",
-        "val": "Why did you have to tell [dance:polite:red] that it was my idea?  I wanted the idea to come from you.  Now everyone's upset with me because it was originally my idea.",
+        "val": "¿Por qué le tuviste que decir a la instructora [dance:polite:red] que fue mi idea?  Quería que la idea venga de tí.  Ahora todas están molestas conmigo porque fue originalmente mi idea.",
         "effect": [],
         "requirements": [],
         "script": []
@@ -1499,7 +1499,7 @@
         "id": 3,
         "type": "choice",
         "actor": null,
-        "val": "Sorry, it must have slipped out.",
+        "val": "Disculpa, se me tuvo que haber escapado.",
         "effect": [],
         "requirements": [],
         "script": [
